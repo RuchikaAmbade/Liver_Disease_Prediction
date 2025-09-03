@@ -93,6 +93,9 @@ pip install -r requirements.txt
 python app.py
 Visit http://127.0.0.1:5000 in your browser.
 
+🎥 **Demo Video**: See the demo inside the repository under the `Liver Disease Prediction Demo.mp4` file .
+
+
 
 About Me
 Ruchika Ambade MSc Statistics | Aspiring Data Scientist Skilled in predictive modeling, EDA, and dashboard design. Passionate about building impactful analytics solutions and exploring NLP & Generative AI. 📍 Based in Nagpur 
