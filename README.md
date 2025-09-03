@@ -80,8 +80,6 @@ Result Display: Color-coded feedback (Green = No Disease, Red = Disease)
 
 🚀 How to Run Locally
 bash
-# Clone the repo
-git clone https://github.com/your-username/liver-disease-prediction
 
 # Navigate to portal folder
 cd portal
