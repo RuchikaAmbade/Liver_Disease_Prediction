@@ -1,0 +1,24 @@
+.gradient-background {
+    background: linear-gradient(to right, #3ddad7, #70c0ff);
+}
+
+.form-container {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+}
+
+label {
+    font-weight: 500;
+    color: #333;
+}
+
+input.form-control {
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+button.btn-success {
+    font-weight: bold;
+    border-radius: 6px;
+}
